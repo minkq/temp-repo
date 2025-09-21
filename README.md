@@ -33,3 +33,9 @@ $ conda create -n cv_detection
 $ conda activate cv_detection
 $ python --version
 $ python example.py
+
+https://www.tensorflow.org/
+
+https://pytorch.org/
+
+https://github.com/open-mmlab/mmdetection
